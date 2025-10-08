@@ -6,7 +6,7 @@ Because vivo phone internal camera do not have timestamp like hikvision osd when
 
 Because of create date maybe wrong due to copied file, **we use modify date**.  
 
-(en) (cn)script differ in comment，**same in code**.  
+(en) (cn)script differ in comment, **same in code**.  
 
 ## How to use
 
