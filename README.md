@@ -10,7 +10,7 @@ Because of create date maybe wrong due to copied file,we use modify date.
 
 ## How to use
 
-I use portable version of mpv,so put the script to ** \Desktop\execute\MPV\portable_config\scripts ** works.  
+I use portable version of mpv,so put the script to **\Desktop\execute\MPV\portable_config\scripts** works.  
 
 Dev details see docs.  
 
