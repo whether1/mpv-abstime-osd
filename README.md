@@ -18,7 +18,7 @@ picture  below is behavior when testing:we can fastly know the exactly time that
 <details>
 <summary><h1><strong> Tigger/Cause/Start </strong></h1></summary>
 
-~~We~~ I want mpv can show absolute timestamp like beijing 20251007 2:20 according to ~~create time~~ modify date when playing audio or video file , so we can know the exactly actual time of the specified sound wave or action picture happen in the .m4a or .mp4 file.  
+[mpv-issue#16889](https://github.com/mpv-player/mpv/issues/16889) ~~We~~ I want mpv can show absolute timestamp like beijing 20251007 2:20 according to ~~create time~~ modify date when playing audio or video file , so we can know the exactly actual time of the specified sound wave or action picture happen in the .m4a or .mp4 file.  
 
 Because vivo phone internal camera do not have timestamp like hikvision osd when capturing video, and it's hard work(high battery consumption,**~~china~~ india too poor**) to process the video file to add timestamp,  **we need player to finish the work**.  
 </details>
