@@ -76,3 +76,4 @@ The following files are still GPL only (-Dgpl=false disables them):
 None of the cases listed above affect the final binary if it's built as
 LGPL. Linked libraries still can affect the final license (for example if
 FFmpeg was built as GPL).
+
