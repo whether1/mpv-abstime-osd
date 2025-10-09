@@ -18,12 +18,31 @@ picture  below is behavior when testing:we can fastly know the exactly time that
 Because vivo phone internal camera do not have timestamp like hikvision osd when capturing video, and it's hard work(high battery consumption,**~~china~~ india too poor**) to process the video file to add timestamp,  **we need player to finish the work**.  
 
 # TO DO LIST/Reference/Research
-1.maybe we can merge repo with [abs-screenshot](https://github.com/Thann/mpv-abs-screenshot)
-2.clipboard is good. [copyTime]https://github.com/Arieleg/mpv-copyTime)
-* Windows: `Powershell Built-in since Windows 7`.    ok
-* Linux/X11: `xclip`.(not good) 
-* Linux/Wayland : `xclip` or `wl-clipboard`.(not good) 
-* MacOS: `pbcopy` (not good). 
+1.maybe we can merge repo with [abs-screenshot](https://github.com/Thann/mpv-abs-screenshot)  
+2.clipboard is good. [copyTime](https://github.com/Arieleg/mpv-copyTime)  
+<table>
+  <tr>
+    <td>Windows</td>
+    <td><code>Powershell Built-in since Windows 7</code></td>
+    <td>✅ ok</td>
+  </tr>
+  <tr>
+    <td>Linux/X11</td>
+    <td><code>xclip</code></td>
+    <td>❌not good</td>
+  </tr>
+  <tr>
+    <td>Linux/Wayland</td>
+    <td><code>xclip or wl-clipboard</code></td>
+    <td>❌not good</td>
+  </tr>
+  <tr>
+    <td>MacOS</td>
+    <td><code>pbcopy</code></td>
+    <td>❌not good</td>
+  </tr>
+</table>
+
 
 
 
