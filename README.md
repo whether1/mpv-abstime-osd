@@ -26,6 +26,7 @@ Because vivo phone internal camera do not have timestamp like hikvision osd when
 <details>
 <summary><h1><strong> Future to do/Reference/Research </strong></h1></summary>
 1.maybe we can merge repo with [abs-screenshot](https://github.com/Thann/mpv-abs-screenshot)  
+
 2.clipboard is good. [copyTime](https://github.com/Arieleg/mpv-copyTime)  
 <table>
   <tr>
