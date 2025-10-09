@@ -8,16 +8,23 @@
 Because of create date maybe wrong due to copied file, **we use modify date**.  
 similar scripts because [abs-screenshot issue#1](https://github.com/Thann/mpv-abs-screenshot/issues/1), **we use modify date**. 
 
-# Test/Behavior/Example/Finish
+<details>
+<summary><h1><strong> Test/Behavior/Example/Finish </strong></h1></summary>
+
 picture  below is behavior when testing:we can fastly know the exactly time that cat-caught-the-bat  is  around 202509272320(Beijing Time).  
 ![test-ok](test-ok.jpg)
+</details>
 
-# Tigger/Cause/Start
+<details>
+<summary><h1><strong> Tigger/Cause/Start </strong></h1></summary>
+
 ~~We~~ I want mpv can show absolute timestamp like beijing 20251007 2:20 according to ~~create time~~ modify date when playing audio or video file , so we can know the exactly actual time of the specified sound wave or action picture happen in the .m4a or .mp4 file.  
 
 Because vivo phone internal camera do not have timestamp like hikvision osd when capturing video, and it's hard work(high battery consumption,**~~china~~ india too poor**) to process the video file to add timestamp,  **we need player to finish the work**.  
+</details>
 
-# Future to do/Reference/Research
+<details>
+<summary><h1><strong> Future to do/Reference/Research </strong></h1></summary>
 1.maybe we can merge repo with [abs-screenshot](https://github.com/Thann/mpv-abs-screenshot)  
 2.clipboard is good. [copyTime](https://github.com/Arieleg/mpv-copyTime)  
 <table>
@@ -43,6 +50,7 @@ Because vivo phone internal camera do not have timestamp like hikvision osd when
   </tr>
 </table>
 
+</details>
 
 
 
