@@ -6,7 +6,7 @@
 
 # Key Mind : media start time = ModifyDate - Duration 
 Because of create date maybe wrong due to copied file, **we use modify date**.  
-similar scripts because[abs-screenshot](https://github.com/Thann/mpv-abs-screenshot/issues/1), **we use modify date**. 
+similar scripts because [abs-screenshot issue#1](https://github.com/Thann/mpv-abs-screenshot/issues/1), **we use modify date**. 
 
 # Test/Behavior/Example/Finish
 picture  below is behavior when testing:we can fastly know the exactly time that cat-caught-the-bat  is  around 202509272320(Beijing Time).  
