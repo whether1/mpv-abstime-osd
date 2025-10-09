@@ -9,7 +9,7 @@ Because of create date maybe wrong due to copied file, **we use modify date**.
 similar scripts because [abs-screenshot issue#1](https://github.com/Thann/mpv-abs-screenshot/issues/1), **we use modify date**. 
 
 <details>
-<summary><h1><strong> Test/Behavior/Example/Finish </strong></h1></summary>
+<summary><h1><strong> Test Result/Behavior/Response/Example/Finish </strong></h1></summary>
 
 picture  below is behavior when testing:we can fastly know the exactly time that cat-caught-the-bat  is  around 202509272320(Beijing Time).  
 ![test-ok](test-ok.jpg)
@@ -26,9 +26,9 @@ Because vivo phone internal camera do not have timestamp like hikvision osd when
 <details>
 <summary><h1><strong> Future to do/Reference/Research </strong></h1></summary>
 
-1.maybe we can merge repo with [abs-screenshot](https://github.com/Thann/mpv-abs-screenshot).  
+1.2510100310 maybe we can merge repo with [abs-screenshot](https://github.com/Thann/mpv-abs-screenshot).  
 
-2.clipboard is good. [copyTime](https://github.com/Arieleg/mpv-copyTime)  
+2.2510100310 clipboard is good. [copyTime](https://github.com/Arieleg/mpv-copyTime)  
 <table>
   <tr>
     <td>Windows</td>
