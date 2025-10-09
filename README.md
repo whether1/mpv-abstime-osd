@@ -17,7 +17,7 @@ picture  below is behavior when testing:we can fastly know the exactly time that
 
 Because vivo phone internal camera do not have timestamp like hikvision osd when capturing video, and it's hard work(high battery consumption,**~~china~~ india too poor**) to process the video file to add timestamp,  **we need player to finish the work**.  
 
-# TO DO LIST/Reference/Research
+# Future to do/Reference/Research
 1.maybe we can merge repo with [abs-screenshot](https://github.com/Thann/mpv-abs-screenshot)  
 2.clipboard is good. [copyTime](https://github.com/Arieleg/mpv-copyTime)  
 <table>
